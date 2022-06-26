@@ -12,7 +12,9 @@ Remasterizar interface do sigaa web mobile, de maneira que sejam atendidos todos
 
 ## Colaboradores
 
-- [Andre](https://github.com/andremralves)
-- [Luiz Pettengill](https://github.com/luizpettengill)
-- [Matheus Salim](https://github.com/matheussalimdeoliveira)
-- [Pedro Vitor Augusto de Jesus](https://github.com/Peedrooo)
+| Matrícula | Aluno |
+| -- | -- |
+| 00/0000000 | [Andre](https://github.com/andremralves) |
+| 00/0000000 | [Luiz Pettengill](https://github.com/luizpettengill)
+| 00/0000000 | [Matheus Salim](https://github.com/matheussalimdeoliveira) |
+| 20/0073249 | [Pedro Vitor Augusto de Jesus](https://github.com/Peedrooo) |
