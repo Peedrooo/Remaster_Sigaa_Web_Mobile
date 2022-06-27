@@ -16,6 +16,6 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
 | Matrícula | Aluno |
 | -- | -- |
 | 00/0000000 | [Andre](https://github.com/andremralves) |
-| 15/0138202 | [Luiz Pettengill](https://github.com/luizpettengill)
+| 15/0138202 | [Luiz Guilherme Palhares Pettengill](https://github.com/luizpettengill)
 | 17/0122310 | [Matheus Salim](https://github.com/matheussalimdeoliveira) |
 | 20/0073249 | [Pedro Vitor Augusto de Jesus](https://github.com/Peedrooo) |
