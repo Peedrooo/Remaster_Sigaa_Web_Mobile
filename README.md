@@ -1,6 +1,7 @@
 # Remaster_Sigaa_Web_Mobile
 
-Remasterizar interface do sigaa web mobile, de maneira que sejam atendidos todos os tópicos da heurística de usabilidade de Nielsen
+Fazer com que a interação humano computador presente no sigaa web mobile seja mais eficiente, de maneira que os alunos possam ultiliza-lo de maneira intuitiva sem quais quer impedimentos, realizando e recebendo feedbacks por parte do aplicativo, tendo controle e flexbilidade de operações dentre os caminhos dispostos, passando assim por uma experiência mais agradável.
+
 
 ## Organização
 
