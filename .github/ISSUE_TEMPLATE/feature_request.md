@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 ## Qual a feature ?
+
 Detalhamento da funcionalidade/documentação
 
 ## Critérios de aceitação

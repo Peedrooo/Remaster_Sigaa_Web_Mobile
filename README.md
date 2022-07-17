@@ -2,6 +2,17 @@
 
 Fazer com que a interação humano computador presente no sigaa web mobile seja mais eficiente, de maneira que os alunos possam ultiliza-lo de maneira intuitiva sem quais quer impedimentos, realizando e recebendo feedbacks por parte do aplicativo, tendo controle e flexbilidade de operações dentre os caminhos dispostos, passando assim por uma experiência mais agradável.
 
+## Protótipo
+
+- [Figma]()
+
+## Formulários
+
+- [Análise_inicial]()
+  - Análise de necessidades do usuário sobre produto
+  - O que o usuário acha do modelo dispoto atualmente ?
+  - Validação da primeira pagina remasterizada (home)
+    - validação de novas features
 
 ## Organização
 
@@ -10,6 +21,8 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
 - [Backlog](https://github.com/Peedrooo/Remaster_Sigaa_Web_Mobile/wiki/Product-backlog)
 
 - [Documentação](https://github.com/Peedrooo/Remaster_Sigaa_Web_Mobile)
+
+- [wiki](https://github.com/Peedrooo/Remaster_Sigaa_Web_Mobile/wiki)
 
 ## Colaboradores
 
