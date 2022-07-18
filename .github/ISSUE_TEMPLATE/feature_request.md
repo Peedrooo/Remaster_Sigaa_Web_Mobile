@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-## Qual a feature ?
+## Motivação
 
-Detalhamento da funcionalidade/documentação
+Motivação da feature ou documentação
 
 ## Critérios de aceitação
 
