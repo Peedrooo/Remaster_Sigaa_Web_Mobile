@@ -4,9 +4,9 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
 
 ## Protótipo
 
-- [Figma](https://www.figma.com/file/gO6bjHQZ076LOLsilCS7lS/WebApp?node-id=0%3A1)
-  - Disponivel apenas para membros até o momento
-
+- [Figma Visitantes](https://www.figma.com/file/gO6bjHQZ076LOLsilCS7lS/WebApp?node-id=0%3A1)
+- [Figma Desenvolvedores](https://www.figma.com/file/gO6bjHQZ076LOLsilCS7lS/WebApp?node-id=0%3A1)
+ 
 ## Formulários
 
 - [Análise_inicial](https://forms.gle/BeJBzQ4ouoVEBWbC8)
