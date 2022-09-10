@@ -31,6 +31,5 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
 | -- | -- |
 | 19/0102390 | [Andre Macedo Rodrigues Alves](https://github.com/andremralves) |
 | 15/0138202 | [Luiz Guilherme Palhares Pettengill](https://github.com/luizpettengill)
-| 17/0122310 | [Matheus Salim](https://github.com/matheussalimdeoliveira) |
 | 19/0058587 | [Matheus Raphael](https://github.com/matheussalimdeoliveira) |
 | 20/0073249 | [Pedro Vitor Augusto de Jesus](https://github.com/Peedrooo) |
