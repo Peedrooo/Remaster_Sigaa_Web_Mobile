@@ -15,6 +15,10 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
   - O que o usuário acha do modelo dispoto atualmente ?
   - Validação da primeira pagina remasterizada (home)
     - validação de novas features
+- [Avaliação de protótipo](https://forms.gle/xARWUoS1FkrqoCyB9)
+  - Avaliação do trabalho realizado
+  - Verificação de melhoria sobre web app atual
+  - Verificação de atendimento as heurísticas
 
 ## Organização
 
