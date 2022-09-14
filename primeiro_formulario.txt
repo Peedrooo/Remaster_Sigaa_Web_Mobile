@@ -1,0 +1,24 @@
+# Reconhecimento em vez de recordação (heuristica 6) # Consistência e padronização (heuristica 4)
+
+-> Nos seus primeiros acessos você encontrava com facilidade as funcionalidades e documentações dispostas no sigaa web mobile ?
+-> média: 2.642857
+-> moda: 1,3
+
+# Eficiência e flexibilidade de uso (heuristica 7)
+
+-> Suas necessidades de interação com o sigaa web são atendidas pelo sigaa web mobile ?
+-> média: 2.285714
+-> moda: 2
+
+# Visibilidade de status do sistema (heuristica 1)
+
+-> A plataforma sigaa web mobile te fornece status a respeito de sua visibilidade ? Ou seja te informa de maneira clara quando está inoperante ou fornece uma previsão de quando pretende voltar ?                 
+-> média 1.607143
+-> moda: 1
+
+# Estética e design minimalista (heuristica 8)
+
+-> Você considera a atual interface do sigaa web mobile minimalista e responsiva ? Ou seja possuindo apenas informações necessárias para realização de atividades e se adaptando a diferentes tamanhos de tela.
+-> média 2.571429
+-> moda 3
+

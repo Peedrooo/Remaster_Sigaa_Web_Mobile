@@ -4,8 +4,9 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
 
 ## Protótipo
 
-- [Figma](https://www.figma.com/file/gO6bjHQZ076LOLsilCS7lS/WebApp?node-id=0%3A1)
-  - Disponivel apenas para membros até o momento
+- [Figma Visitantes](https://www.figma.com/file/gO6bjHQZ076LOLsilCS7lS/WebApp?node-id=0%3A1)
+- [Figma Comunidade](https://www.figma.com/community/file/1128597933910678358)
+- [Figma Desenvolvedores](https://www.figma.com/file/gO6bjHQZ076LOLsilCS7lS/WebApp?node-id=0%3A1)
 
 ## Formulários
 
@@ -14,11 +15,10 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
   - O que o usuário acha do modelo dispoto atualmente ?
   - Validação da primeira pagina remasterizada (home)
     - validação de novas features
-
-- [Avaliação_de_protótipo](https://forms.gle/JrawAPrNkgvUd9Q98)
-  - Análise de comparação entre o modelo atual e o modelo remasterizado
-  - O que o usuário acha do modelo remasterizado ?
-  - validação de novas features
+- [Avaliação de protótipo](https://forms.gle/xARWUoS1FkrqoCyB9)
+  - Avaliação do trabalho realizado
+  - Verificação de melhoria sobre web app atual
+  - Verificação de atendimento as heurísticas
 
 ## Apresentações
 
@@ -40,6 +40,5 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
 | -- | -- |
 | 19/0102390 | [Andre Macedo Rodrigues Alves](https://github.com/andremralves) |
 | 15/0138202 | [Luiz Guilherme Palhares Pettengill](https://github.com/luizpettengill)
-| 17/0122310 | [Matheus Salim](https://github.com/matheussalimdeoliveira) |
 | 19/0058587 | [Matheus Raphael](https://github.com/matheussalimdeoliveira) |
 | 20/0073249 | [Pedro Vitor Augusto de Jesus](https://github.com/Peedrooo) |
