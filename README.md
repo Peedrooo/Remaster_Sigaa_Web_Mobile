@@ -15,9 +15,18 @@ Fazer com que a interação humano computador presente no sigaa web mobile seja 
   - Validação da primeira pagina remasterizada (home)
     - validação de novas features
 
-## Organização
+- [Avaliação_de_protótipo](https://forms.gle/JrawAPrNkgvUd9Q98)
+  - Análise de comparação entre o modelo atual e o modelo remasterizado
+  - O que o usuário acha do modelo remasterizado ?
+  - validação de novas features
 
-- [Apresentação no canvas](https://www.canva.com/design/DAFEbzFUTfU/kV6DxPYuZHwM3o5jq7tz5w/view?utm_content=DAFEbzFUTfU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## Apresentações
+
+- [Ponto_de_contole_1](https://www.canva.com/design/DAFEbzFUTfU/kV6DxPYuZHwM3o5jq7tz5w/view?utm_content=DAFEbzFUTfU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- [Entrega_final](https://www.canva.com/design/DAFMJrm6MeI/RmNmLjJTcIXWOeGTujbPfA/edit?utm_content=DAFMJrm6MeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Organização
 
 - [Backlog](https://github.com/Peedrooo/Remaster_Sigaa_Web_Mobile/wiki/Product-backlog)
 

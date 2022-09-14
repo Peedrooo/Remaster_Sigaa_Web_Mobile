@@ -2,7 +2,7 @@
 
 -> Nos seus primeiros acessos você encontrava com facilidade as funcionalidades e documentações dispostas no sigaa web mobile ?
 -> média: 2.642857
--> moda: 1,2,3
+-> moda: 1,3
 
 # Eficiência e flexibilidade de uso (heuristica 7)
 
@@ -20,5 +20,5 @@
 
 -> Você considera a atual interface do sigaa web mobile minimalista e responsiva ? Ou seja possuindo apenas informações necessárias para realização de atividades e se adaptando a diferentes tamanhos de tela.
 -> média 2.571429
--> moda 1,3
+-> moda 3
 
